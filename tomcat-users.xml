@@ -20,7 +20,7 @@
               xsi:schemaLocation="http://tomcat.apache.org/xml tomcat-users.xsd"
               version="1.0">
     <role rolename="admin-gui" />
-  <user username="admin" password="admin" roles="manager-gui,admin-gui" />
+  <user username="admin" password="2018TransmiSurvey" roles="manager-gui,admin-gui" />
 <!--
   NOTE:  By default, no user is included in the "manager-gui" role required
   to operate the "/manager/html" web application.  If you wish to use this app,
